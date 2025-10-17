@@ -1,2 +1,1 @@
-<h1>HelloWorld<\h1>
-<p>parrafo de prueba<\p>
+Adios mundo
